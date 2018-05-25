@@ -1,0 +1,11 @@
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\bin\Any CPU\Release\netcoreapp2.0\JEIdentityService.deps.json
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\bin\Any CPU\Release\netcoreapp2.0\JEIdentityService.runtimeconfig.json
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\bin\Any CPU\Release\netcoreapp2.0\JEIdentityService.runtimeconfig.dev.json
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\bin\Any CPU\Release\netcoreapp2.0\JEIdentityService.dll
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\bin\Any CPU\Release\netcoreapp2.0\JEIdentityService.pdb
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.csprojResolveAssemblyReference.cache
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.csproj.CoreCompileInputs.cache
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.AssemblyInfoInputs.cache
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.AssemblyInfo.cs
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.dll
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\obj\Any CPU\Release\netcoreapp2.0\JEIdentityService.pdb

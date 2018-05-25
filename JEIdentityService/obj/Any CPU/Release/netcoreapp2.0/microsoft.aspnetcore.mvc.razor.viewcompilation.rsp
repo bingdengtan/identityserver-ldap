@@ -1,0 +1,18 @@
+D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=JEIdentityService
+--content-root=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Account\LoggedOut.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Account\Login.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Account\Logout.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Consent\Index.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Consent\_ScopeListItem.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Diagnostics\Index.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Grants\Index.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Home\Index.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Shared\Error.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Shared\Redirect.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Shared\_Layout.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\Shared\_ValidationSummary.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\_ViewImports.cshtml
+--file=D:\bingdeng\projects\VS\JEIdentityService\JEIdentityService\Views\_ViewStart.cshtml
